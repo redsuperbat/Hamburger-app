@@ -3,7 +3,7 @@ This is a project made by 4 students for a course in human-computer interaction.
 
 My main responsibilities have mainly been responsiveness (CSS Grid/Flexbox layouts, breakpoints etc), popups, data handling both inside and between the different views, handling the different presentations of orders in the kitchen view as well as having an overall responsibility of keeping the different components of the app modular.
 
-You can read my reflection report (in swedish) [by pressing here](gränssnitt reflektion.pdf).
+You can read my reflection report (in swedish) [by pressing here](gränssnitt%20%reflektion.pdf).
 ## Project setup
 ```
 npm install
