@@ -1,7 +1,3 @@
-# Max-Hamburgare
-
-This skeleton code contains a back-end for your burger ordering system as well as stubs for building views and maintaining a clean folder structure. Take some time to get acquainted with the different files and how they are connected.
-
 ## Project setup
 ```
 npm install
@@ -23,4 +19,9 @@ http://localhost:8080/#/kitchen
 
 ### Example of the ordering view
 
-![Alt text](bapp1.gif?raw=true "Title")
+![Demo 1](g1.gif?raw=true "demo1")
+
+### Example of the kitchen view
+
+![Demo 2](g2.gif?raw=true "demo2")
+
