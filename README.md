@@ -19,7 +19,7 @@ http://localhost:8080/#/kitchen
 
 ### Example of the ordering view
 
-![Demo 1](g1.gif?raw=true "demo1")
+![Demo 1](bapp1.gif?raw=true "demo1")
 
 ### Example of the kitchen view
 
