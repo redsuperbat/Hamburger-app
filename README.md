@@ -1,5 +1,5 @@
 # Max Hamburgare
-This is a project made by 4 students for a course in human-computer interaction. The app is split in 2: One view for ordering and one view for the staff in the kitchen. The goal was to make a user friendly burger ordering app, as well as being a tool for order-slip-management in the kitchen.
+This is a project made by 5 students for a course in human-computer interaction. The app is split in 2: One view for ordering and one view for the staff in the kitchen. The goal was to make a user friendly burger ordering app, as well as being a tool for order-slip-management in the kitchen.
 
 ## Project setup
 ```
